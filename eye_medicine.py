@@ -1,3 +1,6 @@
+# READ ME #
+# epilepsy warning #
+
 import transparent_window
 from win32api import GetSystemMetrics
 
